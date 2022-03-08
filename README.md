@@ -1,4 +1,4 @@
-# final-project
+# Politicians vs. The People: Who Uses Unique Words?
 Team Members: Jason Kushner, Mehr Showkat, Jack McGreevy
 #
 In this project we are pursuing the question of whether or not prepared speech has greater lexical richness than spontaneous speech. Our speech samples are collected from the Switchboard Corpus (spontaneous, at times prompted, speech) and the C-Span Inaugral Corpus (planned speech).
