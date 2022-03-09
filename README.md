@@ -10,6 +10,8 @@ project proposal.pdf
 
 data-analysis.py
 
+writeup - Politicians vs. The People_ Who Uses Unique Words_.pdf
+
 *inaugral:*
 README; speech sample files
 
